@@ -17,6 +17,8 @@ Move: WASD / Arrow Keys
 
 Shoot: Space / lmb
 
+OBS! rigidbody2d mass is 1 wich makes the game harder should be 0 
+
 
 
 https://github.com/user-attachments/assets/13f1b364-00db-4ba3-bd22-1e3902ad340b
