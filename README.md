@@ -5,7 +5,7 @@ a game for those looking for a challenge
 🎮 How to Play
 Move your ship to avoid incoming asteroids
 
-destroy them to get points 
+destroy asteroid to get points 
 
 Survive as long as possible with 3 total lives 
 
