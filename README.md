@@ -17,7 +17,7 @@ Move: WASD / Arrow Keys
 
 Shoot: Space / lmb
 
-OBS! rigidbody2d mass is 1 wich makes the game harder should be 0 
+OBS! rigidbody2d mass is 1 wich applies gravity to the ship (should be 0 for smoothest experience)
 
 
 
